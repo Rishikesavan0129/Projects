@@ -1,0 +1,2 @@
+vector_id,expected_accum,got_accum,pass,cycles,spikes_q,spikes_k,sparsity_q_pct,sparsity_k_pct,mac_reduction_pct,bw_reduction_pct,throughput_tok_per_cyc
+0,-2444882,-2444882,PASS,6546,634,837,60.42,47.75,99.98,-18.73,0.2247
