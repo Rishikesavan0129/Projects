@@ -1,0 +1,19 @@
+Design Name: flash_attention_top
+Run Directory: /openlane/designs/FAE/runs/FAE_run1
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/FAE/runs/FAE_run1/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/FAE/runs/FAE_run1/logs/signoff/43-flash_attention_top.lef.lvs.log
+Number of nets: 14990                      |Number of nets: 14990                      
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/FAE/runs/FAE_run1/logs/signoff/45-arc.log
+Pin violations: 1
+Net violations: 1

@@ -1,0 +1,24 @@
+OpenSTA 2.4.0 41a51eaf4c Copyright (c) 2021, Parallax Software, Inc.
+License GPLv3: GNU GPL version 3 <http://gnu.org/licenses/gpl.html>
+
+This is free software, and you are free to change and redistribute it
+under certain conditions; type `show_copying' for details. 
+This program comes with ABSOLUTELY NO WARRANTY; for details type `show_warranty'.
+Warning: designs/FAE/runs/FAE_run1/results/final/verilog/gl/flash_attention_top.v line 83303, module sky130_ef_sc_hd__decap_12 not found. Creating black box for FILLER_0_0_1009.
+Warning: designs/FAE/runs/FAE_run1/results/final/verilog/gl/flash_attention_top.v line 83311, module sky130_fd_sc_hd__fill_1 not found. Creating black box for FILLER_0_0_1025.
+Warning: designs/FAE/runs/FAE_run1/results/final/verilog/gl/flash_attention_top.v line 83315, module sky130_fd_sc_hd__fill_2 not found. Creating black box for FILLER_0_0_1037.
+Warning: designs/FAE/runs/FAE_run1/results/final/verilog/gl/flash_attention_top.v line 212327, module sky130_fd_sc_hd__tapvpwrvgnd_1 not found. Creating black box for TAP_1000.
+
+================================================================
+  FINAL SAIF-ANNOTATED POWER REPORT (50MHz)
+================================================================
+Group                  Internal  Switching    Leakage      Total
+                          Power      Power      Power      Power (Watts)
+----------------------------------------------------------------
+Sequential             1.17e-03   6.75e-04   4.64e-09   1.84e-03   4.2%
+Combinational          1.52e-02   2.66e-02   8.73e-08   4.18e-02  95.8%
+Macro                  0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+Pad                    0.00e+00   0.00e+00   0.00e+00   0.00e+00   0.0%
+----------------------------------------------------------------
+Total                  1.63e-02   2.73e-02   9.19e-08   4.36e-02 100.0%
+                          37.5%      62.5%       0.0%
